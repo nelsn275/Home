@@ -1,4 +1,4 @@
-Hi there! 👋 I’m a Software Engineering student at Brigham Young University–Idaho, passionate about creating efficient, scalable, and user-friendly solutions through code. My goal is to grow as a developer, contribute to impactful projects, and build a better future for my family.
+Hi there! 👋 I’m a Software Engineering graduate from  Brigham Young University–Idaho, passionate about creating efficient, scalable, and user-friendly solutions through code. My goal is to grow as a developer, contribute to impactful projects, and build a better future for my family.
 
 🛠 Skills & Technologies
 Here are some of the tools and technologies I’ve been working with:
