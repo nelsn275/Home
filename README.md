@@ -9,6 +9,7 @@ Databases: MySQL
 🌟 Projects
 Here are a few of the projects I’ve worked on:
 
+Stock Market Predictor: https://github.com/nelsn275/Stock-Market-Predictor
 Task Trackr: https://github.com/nelsn275/task_trackr
 Recipe Organizer: https://github.com/nelsn275/Recipe-Organizer
 Flying Game: https://github.com/nelsn275/Flying-Game
